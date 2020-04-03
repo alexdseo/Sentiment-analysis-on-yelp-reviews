@@ -3,7 +3,7 @@ from sklearn import linear_model
 import numpy as np
 from sklearn.neural_network import MLPClassifier
 train = pd.read_csv("train_Madison.csv")
-#train = train[:20]
+#train= train[:20]
 test = pd.read_csv("test_Madison.csv")
 names = train["name"]
 stars = train["star"]
