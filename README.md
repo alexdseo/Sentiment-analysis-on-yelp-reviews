@@ -1,5 +1,5 @@
 # Sentiment-analysis-on-yelp-reviews
-======
+
 This was a group course project for STAT 333 : Applied Regression Analysis
 
 > Professor : Dr. Hyunseung Kang
